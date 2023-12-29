@@ -1,7 +1,7 @@
 // ignore_for_file: depend_on_referenced_packages
 
 import 'package:flutter/material.dart';
-import 'package:reactive_flutter_typeahead/reactive_flutter_typeahead.dart';
+import 'package:reactive_flutter_typeahead_plus/reactive_flutter_typeahead_plus.dart';
 import 'package:reactive_forms/reactive_forms.dart';
 
 void main() {
