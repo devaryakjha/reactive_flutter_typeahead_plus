@@ -1,3 +1,7 @@
+## [2.1.2]
+
+- Update git url
+
 ## [2.1.1]
 
 - fixed case where setting control value from outside of the widget would create wrong value
